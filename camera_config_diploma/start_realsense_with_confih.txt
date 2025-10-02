@@ -1,0 +1,2 @@
+ros2 launch realsense2_camera rs_launch.py \
+    config_file:=$(ros2 pkg prefix camera_config_diploma)/share/camera_config_diploma/config/camera_params.yaml
